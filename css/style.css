@@ -15,6 +15,30 @@ body{
 }
 .title{
     font-size: 60px;
-    font-weight: 900;
-    
+    font-weight: 900;   
+}
+
+/* main */
+
+main{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.bg{
+    background-color: white;
+}
+.blu{
+    background-color: #47adf1;
+    color: white;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+}
+#section{
+    background-color: white;
+    border-radius: 5px;
+    color: gray;
+    width: 120px;
+    height: 40px;
 }
